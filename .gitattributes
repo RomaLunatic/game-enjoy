@@ -1,0 +1,16 @@
+# Unity WebGL build files
+* text=auto
+
+*.cs text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.txt text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.wasm binary
+*.data binary
